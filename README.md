@@ -48,3 +48,8 @@ Following the difference of the noise after and before the use of a high-pass fi
 <p align="center">
    <img src="images/DiagrammaFinale.PNG">
 </p>
+
+
+## Credits
+- [Giorgio Mocci](https://github.com/giorgio-mocci)
+- [Daniel Rajer](https://github.com/telespalladaniel)
